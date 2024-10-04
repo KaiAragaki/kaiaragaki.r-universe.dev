@@ -32,7 +32,7 @@
         "url": "https://github.com/KaiAragaki/blotbench"
     },
     {
-      "package": "classifyBLCA",
-      "url": "https://github.com/KaiAragaki/classifyBLCA"
+        "package": "classifyBLCA",
+        "url": "https://github.com/KaiAragaki/classifyBLCA"
     }
 ]
