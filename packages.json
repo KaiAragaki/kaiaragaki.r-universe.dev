@@ -1,5 +1,9 @@
 [
     {
+        "package": "tidyestimate",
+        "url": "https://github.com/KaiAragaki/tidyestimate"
+    },
+    {
         "package": "amplify",
         "url": "https://github.com/KaiAragaki/amplify"
     },
