@@ -1,0 +1,38 @@
+[
+    {
+        "package": "amplify",
+        "url": "https://github.com/KaiAragaki/amplify"
+    },
+    {
+        "package": "mop",
+        "url": "https://github.com/KaiAragaki/mop"
+    },
+    {
+        "package": "gplate",
+        "url": "https://github.com/KaiAragaki/gplate"
+    },
+    {
+        "package": "qp",
+        "url": "https://github.com/KaiAragaki/qp"
+    },
+    {
+        "package": "reclanc",
+        "url": "https://github.com/KaiAragaki/reclanc"
+    },
+    {
+        "package": "ezmtt",
+        "url": "https://github.com/KaiAragaki/ezmtt"
+    },
+    {
+        "package": "thermos",
+        "url": "https://github.com/KaiAragaki/thermos"
+    },
+    {
+        "package": "blotbench",
+        "url": "https://github.com/KaiAragaki/blotbench"
+    },
+    {
+      "package": "classifyBLCA",
+      "url": "https://github.com/KaiAragaki/classifyBLCA"
+    }
+]
